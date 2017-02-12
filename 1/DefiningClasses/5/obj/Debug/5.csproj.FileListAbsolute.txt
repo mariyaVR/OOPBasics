@@ -1,0 +1,15 @@
+E:\SoftUni\C#BasicsOOP\DefiningClasses\5\bin\Debug\5.exe.config
+E:\SoftUni\C#BasicsOOP\DefiningClasses\5\bin\Debug\5.exe
+E:\SoftUni\C#BasicsOOP\DefiningClasses\5\bin\Debug\5.pdb
+E:\SoftUni\C#BasicsOOP\DefiningClasses\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#BasicsOOP\DefiningClasses\5\obj\Debug\5.exe
+E:\SoftUni\C#BasicsOOP\DefiningClasses\5\obj\Debug\5.pdb
+E:\SoftUni\OOP\DefiningClasses\5\bin\Debug\5.exe.config
+E:\SoftUni\OOP\DefiningClasses\5\obj\Debug\5.exe
+E:\SoftUni\OOP\DefiningClasses\5\obj\Debug\5.pdb
+E:\SoftUni\OOP\DefiningClasses\5\bin\Debug\5.exe
+E:\SoftUni\OOP\DefiningClasses\5\bin\Debug\5.pdb
+E:\SoftUni\OOP\DefiningClasses\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\1\DefiningClasses\5\bin\Debug\5.exe.config
+E:\SoftUni\OOP\1\DefiningClasses\5\obj\Debug\5.exe
+E:\SoftUni\OOP\1\DefiningClasses\5\obj\Debug\5.pdb

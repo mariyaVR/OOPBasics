@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\DefiningClasses\4-2\bin\Debug\4-2.exe.config
+E:\SoftUni\OOP\DefiningClasses\4-2\bin\Debug\4-2.exe
+E:\SoftUni\OOP\DefiningClasses\4-2\bin\Debug\4-2.pdb
+E:\SoftUni\OOP\DefiningClasses\4-2\obj\Debug\4-2.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\DefiningClasses\4-2\obj\Debug\4-2.exe
+E:\SoftUni\OOP\DefiningClasses\4-2\obj\Debug\4-2.pdb

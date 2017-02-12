@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\2\Methods\NumberInReversedOrder\bin\Debug\NumberInReversedOrder.exe.config
+E:\SoftUni\OOP\2\Methods\NumberInReversedOrder\bin\Debug\NumberInReversedOrder.exe
+E:\SoftUni\OOP\2\Methods\NumberInReversedOrder\bin\Debug\NumberInReversedOrder.pdb
+E:\SoftUni\OOP\2\Methods\NumberInReversedOrder\obj\Debug\NumberInReversedOrder.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\2\Methods\NumberInReversedOrder\obj\Debug\NumberInReversedOrder.exe
+E:\SoftUni\OOP\2\Methods\NumberInReversedOrder\obj\Debug\NumberInReversedOrder.pdb

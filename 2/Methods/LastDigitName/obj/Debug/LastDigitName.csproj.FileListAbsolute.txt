@@ -1,0 +1,5 @@
+E:\SoftUni\OOP\2\Methods\LastDigitName\bin\Debug\LastDigitName.exe.config
+E:\SoftUni\OOP\2\Methods\LastDigitName\bin\Debug\LastDigitName.exe
+E:\SoftUni\OOP\2\Methods\LastDigitName\bin\Debug\LastDigitName.pdb
+E:\SoftUni\OOP\2\Methods\LastDigitName\obj\Debug\LastDigitName.exe
+E:\SoftUni\OOP\2\Methods\LastDigitName\obj\Debug\LastDigitName.pdb

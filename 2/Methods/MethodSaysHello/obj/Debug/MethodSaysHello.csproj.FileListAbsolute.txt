@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\2\Methods\MethodSaysHello\bin\Debug\MethodSaysHello.exe.config
+E:\SoftUni\OOP\2\Methods\MethodSaysHello\bin\Debug\MethodSaysHello.exe
+E:\SoftUni\OOP\2\Methods\MethodSaysHello\bin\Debug\MethodSaysHello.pdb
+E:\SoftUni\OOP\2\Methods\MethodSaysHello\obj\Debug\MethodSaysHello.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\2\Methods\MethodSaysHello\obj\Debug\MethodSaysHello.exe
+E:\SoftUni\OOP\2\Methods\MethodSaysHello\obj\Debug\MethodSaysHello.pdb

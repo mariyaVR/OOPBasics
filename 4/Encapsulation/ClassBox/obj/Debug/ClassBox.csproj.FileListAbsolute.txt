@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\4\Encapsulation\ClassBox\bin\Debug\ClassBox.exe.config
+E:\SoftUni\OOP\4\Encapsulation\ClassBox\bin\Debug\ClassBox.exe
+E:\SoftUni\OOP\4\Encapsulation\ClassBox\bin\Debug\ClassBox.pdb
+E:\SoftUni\OOP\4\Encapsulation\ClassBox\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\4\Encapsulation\ClassBox\obj\Debug\ClassBox.exe
+E:\SoftUni\OOP\4\Encapsulation\ClassBox\obj\Debug\ClassBox.pdb

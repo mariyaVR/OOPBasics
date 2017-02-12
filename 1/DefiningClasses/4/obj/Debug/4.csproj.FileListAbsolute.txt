@@ -1,0 +1,12 @@
+E:\SoftUni\C#BasicsOOP\DefiningClasses\4\bin\Debug\4.exe.config
+E:\SoftUni\C#BasicsOOP\DefiningClasses\4\bin\Debug\4.exe
+E:\SoftUni\C#BasicsOOP\DefiningClasses\4\bin\Debug\4.pdb
+E:\SoftUni\C#BasicsOOP\DefiningClasses\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#BasicsOOP\DefiningClasses\4\obj\Debug\4.exe
+E:\SoftUni\C#BasicsOOP\DefiningClasses\4\obj\Debug\4.pdb
+E:\SoftUni\OOP\DefiningClasses\4\bin\Debug\4.exe.config
+E:\SoftUni\OOP\DefiningClasses\4\obj\Debug\4.exe
+E:\SoftUni\OOP\DefiningClasses\4\obj\Debug\4.pdb
+E:\SoftUni\OOP\DefiningClasses\4\bin\Debug\4.exe
+E:\SoftUni\OOP\DefiningClasses\4\bin\Debug\4.pdb
+E:\SoftUni\OOP\DefiningClasses\4\obj\Debug\4.csprojResolveAssemblyReference.cache

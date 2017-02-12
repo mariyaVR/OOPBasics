@@ -1,0 +1,9 @@
+E:\SoftUni\OOP\DefiningClasses\6\bin\Debug\6.exe.config
+E:\SoftUni\OOP\DefiningClasses\6\bin\Debug\6.exe
+E:\SoftUni\OOP\DefiningClasses\6\bin\Debug\6.pdb
+E:\SoftUni\OOP\DefiningClasses\6\obj\Debug\6.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\DefiningClasses\6\obj\Debug\6.exe
+E:\SoftUni\OOP\DefiningClasses\6\obj\Debug\6.pdb
+E:\SoftUni\OOP\1\DefiningClasses\6\bin\Debug\6.exe.config
+E:\SoftUni\OOP\1\DefiningClasses\6\obj\Debug\6.exe
+E:\SoftUni\OOP\1\DefiningClasses\6\obj\Debug\6.pdb

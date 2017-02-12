@@ -1,0 +1,5 @@
+E:\SoftUni\OOP\3\StaticMembers\UniqueStudentNames\bin\Debug\UniqueStudentNames.exe.config
+E:\SoftUni\OOP\3\StaticMembers\UniqueStudentNames\bin\Debug\UniqueStudentNames.exe
+E:\SoftUni\OOP\3\StaticMembers\UniqueStudentNames\bin\Debug\UniqueStudentNames.pdb
+E:\SoftUni\OOP\3\StaticMembers\UniqueStudentNames\obj\Debug\UniqueStudentNames.exe
+E:\SoftUni\OOP\3\StaticMembers\UniqueStudentNames\obj\Debug\UniqueStudentNames.pdb

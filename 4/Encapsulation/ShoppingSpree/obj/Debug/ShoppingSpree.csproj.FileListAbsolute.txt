@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\4\Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+E:\SoftUni\OOP\4\Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+E:\SoftUni\OOP\4\Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+E:\SoftUni\OOP\4\Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\4\Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+E:\SoftUni\OOP\4\Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\OOPBasics\5\Inheritance\BookShop\bin\Debug\BookShop.exe.config
+E:\SoftUni\OOPBasics\5\Inheritance\BookShop\bin\Debug\BookShop.exe
+E:\SoftUni\OOPBasics\5\Inheritance\BookShop\bin\Debug\BookShop.pdb
+E:\SoftUni\OOPBasics\5\Inheritance\BookShop\obj\Debug\BookShop.exe
+E:\SoftUni\OOPBasics\5\Inheritance\BookShop\obj\Debug\BookShop.pdb
+E:\SoftUni\OOPBasics\5\Inheritance\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache

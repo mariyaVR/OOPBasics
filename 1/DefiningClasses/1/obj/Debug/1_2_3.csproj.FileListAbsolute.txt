@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\DefiningClasses\1\bin\Debug\1.exe.config
+E:\SoftUni\OOP\DefiningClasses\1\obj\Debug\1.exe
+E:\SoftUni\OOP\DefiningClasses\1\obj\Debug\1.pdb
+E:\SoftUni\OOP\1\DefiningClasses\1\bin\Debug\1.exe.config
+E:\SoftUni\OOP\1\DefiningClasses\1\obj\Debug\1.exe
+E:\SoftUni\OOP\1\DefiningClasses\1\obj\Debug\1.pdb

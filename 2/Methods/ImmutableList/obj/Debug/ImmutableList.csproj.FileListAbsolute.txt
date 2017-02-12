@@ -1,0 +1,1 @@
+E:\SoftUni\OOP\2\Methods\ImmutableList\bin\Debug\ImmutableList.exe.config

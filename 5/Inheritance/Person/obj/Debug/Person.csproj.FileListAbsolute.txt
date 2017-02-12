@@ -1,0 +1,6 @@
+E:\SoftUni\OOPBasics\5\Inheritance\Person\bin\Debug\Person.exe.config
+E:\SoftUni\OOPBasics\5\Inheritance\Person\bin\Debug\Person.exe
+E:\SoftUni\OOPBasics\5\Inheritance\Person\bin\Debug\Person.pdb
+E:\SoftUni\OOPBasics\5\Inheritance\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOPBasics\5\Inheritance\Person\obj\Debug\Person.exe
+E:\SoftUni\OOPBasics\5\Inheritance\Person\obj\Debug\Person.pdb

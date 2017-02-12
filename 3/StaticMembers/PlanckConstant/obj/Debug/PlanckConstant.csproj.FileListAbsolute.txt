@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\3\StaticMembers\PlanckConstant\bin\Debug\PlanckConstant.exe.config
+E:\SoftUni\OOP\3\StaticMembers\PlanckConstant\bin\Debug\PlanckConstant.exe
+E:\SoftUni\OOP\3\StaticMembers\PlanckConstant\bin\Debug\PlanckConstant.pdb
+E:\SoftUni\OOP\3\StaticMembers\PlanckConstant\obj\Debug\PlanckConstant.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\3\StaticMembers\PlanckConstant\obj\Debug\PlanckConstant.exe
+E:\SoftUni\OOP\3\StaticMembers\PlanckConstant\obj\Debug\PlanckConstant.pdb

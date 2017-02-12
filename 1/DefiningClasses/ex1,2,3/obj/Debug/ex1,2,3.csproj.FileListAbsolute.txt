@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\DefiningClasses\ex1,2,3\bin\Debug\ex1,2,3.exe.config
+E:\SoftUni\OOP\DefiningClasses\ex1,2,3\bin\Debug\ex1,2,3.exe
+E:\SoftUni\OOP\DefiningClasses\ex1,2,3\bin\Debug\ex1,2,3.pdb
+E:\SoftUni\OOP\DefiningClasses\ex1,2,3\obj\Debug\ex1,2,3.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\DefiningClasses\ex1,2,3\obj\Debug\ex1,2,3.exe
+E:\SoftUni\OOP\DefiningClasses\ex1,2,3\obj\Debug\ex1,2,3.pdb

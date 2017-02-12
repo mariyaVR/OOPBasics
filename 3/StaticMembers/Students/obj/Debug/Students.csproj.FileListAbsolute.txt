@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\3\StaticMembers\Students\bin\Debug\Students.exe.config
+E:\SoftUni\OOP\3\StaticMembers\Students\bin\Debug\Students.exe
+E:\SoftUni\OOP\3\StaticMembers\Students\bin\Debug\Students.pdb
+E:\SoftUni\OOP\3\StaticMembers\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\3\StaticMembers\Students\obj\Debug\Students.exe
+E:\SoftUni\OOP\3\StaticMembers\Students\obj\Debug\Students.pdb

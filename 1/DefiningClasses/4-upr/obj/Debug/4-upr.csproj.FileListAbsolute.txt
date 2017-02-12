@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\DefiningClasses\4-upr\bin\Debug\4-upr.exe.config
+E:\SoftUni\OOP\DefiningClasses\4-upr\bin\Debug\4-upr.exe
+E:\SoftUni\OOP\DefiningClasses\4-upr\bin\Debug\4-upr.pdb
+E:\SoftUni\OOP\DefiningClasses\4-upr\obj\Debug\4-upr.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\DefiningClasses\4-upr\obj\Debug\4-upr.exe
+E:\SoftUni\OOP\DefiningClasses\4-upr\obj\Debug\4-upr.pdb

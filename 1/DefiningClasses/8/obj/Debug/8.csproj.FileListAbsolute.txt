@@ -1,0 +1,9 @@
+E:\SoftUni\OOP\DefiningClasses\8\bin\Debug\8.exe.config
+E:\SoftUni\OOP\DefiningClasses\8\bin\Debug\8.exe
+E:\SoftUni\OOP\DefiningClasses\8\bin\Debug\8.pdb
+E:\SoftUni\OOP\DefiningClasses\8\obj\Debug\8.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\DefiningClasses\8\obj\Debug\8.exe
+E:\SoftUni\OOP\DefiningClasses\8\obj\Debug\8.pdb
+E:\SoftUni\OOP\1\DefiningClasses\8\bin\Debug\8.exe.config
+E:\SoftUni\OOP\1\DefiningClasses\8\obj\Debug\8.exe
+E:\SoftUni\OOP\1\DefiningClasses\8\obj\Debug\8.pdb

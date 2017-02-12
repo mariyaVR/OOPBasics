@@ -1,0 +1,2 @@
+E:\SoftUni\OOP\DefiningClasses\7\bin\Debug\7.exe.config
+E:\SoftUni\OOP\1\DefiningClasses\7\bin\Debug\7.exe.config

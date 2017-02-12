@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\3\StaticMembers\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+E:\SoftUni\OOP\3\StaticMembers\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+E:\SoftUni\OOP\3\StaticMembers\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+E:\SoftUni\OOP\3\StaticMembers\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\3\StaticMembers\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+E:\SoftUni\OOP\3\StaticMembers\TemperatureConverter\obj\Debug\TemperatureConverter.pdb

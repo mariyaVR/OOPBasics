@@ -1,0 +1,6 @@
+E:\Softuni\OOPBasics\5\Inheritance\Mankind\bin\Debug\Mankind.exe.config
+E:\Softuni\OOPBasics\5\Inheritance\Mankind\bin\Debug\Mankind.exe
+E:\Softuni\OOPBasics\5\Inheritance\Mankind\bin\Debug\Mankind.pdb
+E:\Softuni\OOPBasics\5\Inheritance\Mankind\obj\Debug\Mankind.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPBasics\5\Inheritance\Mankind\obj\Debug\Mankind.exe
+E:\Softuni\OOPBasics\5\Inheritance\Mankind\obj\Debug\Mankind.pdb

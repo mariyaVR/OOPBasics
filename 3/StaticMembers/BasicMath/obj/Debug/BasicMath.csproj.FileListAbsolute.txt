@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\3\StaticMembers\BasicMath\bin\Debug\BasicMath.exe.config
+E:\SoftUni\OOP\3\StaticMembers\BasicMath\bin\Debug\BasicMath.exe
+E:\SoftUni\OOP\3\StaticMembers\BasicMath\bin\Debug\BasicMath.pdb
+E:\SoftUni\OOP\3\StaticMembers\BasicMath\obj\Debug\BasicMath.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\3\StaticMembers\BasicMath\obj\Debug\BasicMath.exe
+E:\SoftUni\OOP\3\StaticMembers\BasicMath\obj\Debug\BasicMath.pdb

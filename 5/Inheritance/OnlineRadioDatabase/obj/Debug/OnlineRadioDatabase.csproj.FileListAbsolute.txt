@@ -1,0 +1,6 @@
+E:\Softuni\OOPBasics\5\Inheritance\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe.config
+E:\Softuni\OOPBasics\5\Inheritance\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPBasics\5\Inheritance\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe
+E:\Softuni\OOPBasics\5\Inheritance\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.pdb
+E:\Softuni\OOPBasics\5\Inheritance\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.exe
+E:\Softuni\OOPBasics\5\Inheritance\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.pdb

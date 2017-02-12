@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\2\Methods\PizzaTime\bin\Debug\PizzaTime.exe.config
+E:\SoftUni\OOP\2\Methods\PizzaTime\obj\Debug\PizzaTime.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\2\Methods\PizzaTime\bin\Debug\PizzaTime.exe
+E:\SoftUni\OOP\2\Methods\PizzaTime\bin\Debug\PizzaTime.pdb
+E:\SoftUni\OOP\2\Methods\PizzaTime\obj\Debug\PizzaTime.exe
+E:\SoftUni\OOP\2\Methods\PizzaTime\obj\Debug\PizzaTime.pdb

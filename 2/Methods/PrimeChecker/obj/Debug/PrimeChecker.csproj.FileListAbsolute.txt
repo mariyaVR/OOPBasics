@@ -1,0 +1,6 @@
+E:\SoftUni\OOP\2\Methods\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+E:\SoftUni\OOP\2\Methods\PrimeChecker\bin\Debug\PrimeChecker.exe
+E:\SoftUni\OOP\2\Methods\PrimeChecker\bin\Debug\PrimeChecker.pdb
+E:\SoftUni\OOP\2\Methods\PrimeChecker\obj\Debug\PrimeChecker.csprojResolveAssemblyReference.cache
+E:\SoftUni\OOP\2\Methods\PrimeChecker\obj\Debug\PrimeChecker.exe
+E:\SoftUni\OOP\2\Methods\PrimeChecker\obj\Debug\PrimeChecker.pdb
